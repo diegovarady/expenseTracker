@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-size: 4em;
+    margin-bottom: 0px;
+    color: #2c2e36;
+}
+
+h2 {
+    text-align: center;
+    color: #D2386C;
+    font-size: 2em;
+}
+
+form {
+    margin: 28px 0px;
+}
+
+.Name {
+    text-align: center;
+    margin: 7px;    
+}
+
+label {
+    font-size: 2em;
+    color: #2c2e36;
+    font-weight: bold;
+}
+
+.Nemes {
+    width: 60%;
+    border: 1px solid #a79f9a;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 8px 10px 5px 10px;
+}
+
+.Damount {
+    text-align: center;
+    margin: 7px;    
+}
+
+.Nemis {
+    width: 25%;
+    border: 1px solid #a79f9a;
+    font-size: 1.3em;
+    border-radius: 5px;
+    padding: 8px 10px 5px 10px;
+}
+
