@@ -53,7 +53,7 @@ label {
     height: 5em;
 }
 
-button {
+#btnAdd {
     margin: 4px 2px;  
     position: absolute;  
     left: 45%;
@@ -69,10 +69,25 @@ button {
     transition-duration: 0.4s;
 }
 
-button:hover {
+#btnAdd:hover {
     background-color: #f703eb;
     color: white;
-  }
+}
+
+#otrBtn {
+    margin: 10px;  
+    padding: 7px 16px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+#otrBtn:hover {
+    background-color: #06830a;
+    color: white;
+}
 
 .expense {
     border-collapse: collapse;
@@ -84,6 +99,7 @@ button:hover {
     border: 1px solid #ddd;
     padding: 8px;
     font-size: 1.2em;
+    text-align: center;
 }
 
 .expense th {    
